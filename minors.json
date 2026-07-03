@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "polmacro-eco",
+    "programKey": "economia",
+    "program": "Economía",
+    "name": "Políticas Macroeconómicas",
+    "description": "Te formarás con una sólida comprensión del entorno macroeconómico y de las herramientas de política económica. Aprenderás a analizar y diseñar políticas fiscales, monetarias y de desarrollo, desarrollando criterios técnicos y pensamiento estratégico. Esta ruta es ideal si te proyectas como asesor o analista en entidades públicas, organismos internacionales o centros de pensamiento económico",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Teoría y Política Monetaria y Cambiaria",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática",
+          "Optimización para finanzas"
+        ]
+      },
+      {
+        "name": "Teoría y Política del Comercio Internacional",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Macroeconomía II"
+        ]
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      },
+      {
+        "name": "Economía y Finanzas Públicas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": []
+      },
+      {
+        "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Evaluación de Impacto",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Pronósticos Prácticos con Series de Tiempo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Probabilidad",
+          "Estadística"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "polpub-eco",
+    "programKey": "economia",
+    "program": "Economía",
+    "name": "Política Pública",
+    "description": "Desarrollarás la capacidad para comprender, formular y evaluar políticas públicas orientadas al bienestar social. Aprenderás a analizar políticas sociales y sectoriales desde una perspectiva económica y multidisciplinar, fortaleciendo tu criterio técnico y tu compromiso con el impacto social. Esta ruta es ideal si te proyectas a trabajar en el sector público, entidades multilaterales o centros de investigación dedicados al diseño y evaluación de políticas públicas.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Pobreza y Desigualdad",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": []
+      },
+      {
+        "name": "Análisis Cualitativo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      },
+      {
+        "name": "Economía y Finanzas Públicas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": []
+      },
+      {
+        "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Evaluación de Impacto",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Desarrollo Económico",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Introducción a la Ciencia Económica"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "finanzas-eco",
+    "programKey": "economia",
+    "program": "Economía",
+    "name": "Finanzas",
+    "description": "Desarrollarás competencias técnicas para comprender y gestionar decisiones financieras en distintos contextos económicos. Aprenderás sobre instrumentos financieros, análisis de mercados, planeación y finanzas corporativas, así como sobre el entorno monetario y cambiario. Esta ruta es ideal si te proyectas a trabajar en el sector financiero, empresas, banca, consultoría o entidades reguladoras.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Contabilidad para la Toma de Decisiones",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Matemáticas Financieras",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Contabilidad para la Toma de Decisiones"
+        ]
+      },
+      {
+        "name": "Renta Fija",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras"
+        ]
+      },
+      {
+        "name": "Renta Variable",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras"
+        ]
+      },
+      {
+        "name": "Planeación Financiera",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras"
+        ]
+      },
+      {
+        "name": "Finanzas Corporativas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Planeación Financiera"
+        ]
+      },
+      {
+        "name": "Teoría y Política Monetaria y Cambiaria",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática",
+          "Optimización para finanzas"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "fintech-eco",
+    "programKey": "economia",
+    "program": "Economía",
+    "name": "Fintech",
+    "description": "Desarrollarás habilidades para comprender e implementar soluciones financieras basadas en tecnología. Aprenderás a utilizar herramientas digitales aplicadas a las finanzas, análisis de datos, programación y software especializado en mercados financieros. Esta ruta es ideal si te proyectas a trabajar en sectores financieros innovadores, startups, banca digital, analítica financiera o en el diseño de productos tecnológicos para servicios financieros.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Fintech",
+        "type": "Obligatoria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Taller de Bloomberg",
+        "type": "Obligatoria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras",
+          "Planeación Financiera"
+        ]
+      }
+    ],
+    "pools": [
+      {
+        "instruction": "De esta bolsa de asignaturas el estudiante debe seleccionar 3 cursos para completar 6 créditos",
+        "options": [
+          {
+            "name": "Software Financiero",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": []
+          },
+          {
+            "name": "Curso Basico R",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Probabilidad",
+              "Estadistica"
+            ]
+          },
+          {
+            "name": "Curso Basico STATA",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Econometría Básica"
+            ]
+          }
+        ]
+      },
+      {
+        "instruction": "De esta bolsa de asignaturas el estudiante debe seleccionar 2 cursos para completar 6 créditos",
+        "options": [
+          {
+            "name": "Algoritmos y Estructuras de Datos",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores"
+            ]
+          },
+          {
+            "name": "Ingeniería de Datos",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Algoritmos y Estructuras de Datos"
+            ]
+          },
+          {
+            "name": "Aprendizaje Automático de Máquinas",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Álgebra Lineal",
+              "Economía Matemática"
+            ]
+          },
+          {
+            "name": "Contabilidad para la Toma de Decisiones",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": []
+          },
+          {
+            "name": "Matemáticas Financieras",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Contabilidad para la Toma de Decisiones"
+            ]
+          },
+          {
+            "name": "Renta Fija",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Matemáticas Financieras"
+            ]
+          },
+          {
+            "name": "Renta Variable",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Matemáticas Financieras"
+            ]
+          },
+          {
+            "name": "Arquitectura del Computador",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores"
+            ]
+          },
+          {
+            "name": "Optimización para Finanzas",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores",
+              "Cálculo 2",
+              "Álgebra Lineal"
+            ]
+          },
+          {
+            "name": "Economia Financiera",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Microeconomía I",
+              "Probabilidad"
+            ]
+          },
+          {
+            "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Anual s2",
+            "prerequisites": [
+              "Econometría Básica"
+            ]
+          },
+          {
+            "name": "Pronósticos Prácticos con Series de Tiempo",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Anual s1",
+            "prerequisites": [
+              "Probabilidad",
+              "Estadistica"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fcienciasd-eco",
+    "programKey": "economia",
+    "program": "Economía",
+    "name": "Fundamentos en Ciencias de Datos",
+    "description": "Adquirirás las bases conceptuales y técnicas necesarias para analizar datos en contextos interdisciplinarios. Aprenderás programación, manejo de bases de datos y el uso de herramientas tecnológicas para transformar información en conocimiento útil y accionable. Esta ruta es ideal si te interesa aplicar la ciencia de datos en campos como la economía, las finanzas, el marketing, la política pública o la investigación social.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Algoritmos y Estructuras de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Programación de Computadores"
+        ]
+      },
+      {
+        "name": "Ingeniería de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Algoritmos y Estructuras de Datos"
+        ]
+      },
+      {
+        "name": "Aprendizaje Automático de Máquinas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Álgebra Lineal",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Análisis Avanzado de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Introducción al Procesamiento de Lenguaje Natural",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": null,
+        "prerequisites": []
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "exmarket-eco",
+    "programKey": "economia",
+    "program": "Economía",
+    "name": "Experience Marketing",
+    "description": "Desarrollarás herramientas para analizar, comprender e intervenir estratégicamente en la experiencia del cliente. Aprenderás metodologías mixtas, comportamiento del consumidor y diseño de experiencias centradas en el usuario. Esta ruta es ideal si te proyectas a trabajar en áreas de marketing, innovación, estrategia comercial o desarrollo de productos con foco en la experiencia del cliente.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Marketing",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Market Research",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Comportamiento de Compra del Cliente y Consumidor",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Customer Experience Management (Eng)",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Experience Marketing Campaigns (Eng)",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Neuromarketing",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Diseño Digital",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Publicidad Digital",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Diseño Digital"
+        ]
+      },
+      {
+        "name": "Insights del Consumidor y Analítica de Datos",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "polmacro-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Políticas Macroeconómicas",
+    "description": "Te formarás con una sólida comprensión del entorno macroeconómico y de las herramientas de política económica. Aprenderás a analizar y diseñar políticas fiscales, monetarias y de desarrollo, desarrollando criterios técnicos y pensamiento estratégico. Esta ruta es ideal si te proyectas como asesor o analista en entidades públicas, organismos internacionales o centros de pensamiento económico",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Macroeconomía II",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I"
+        ]
+      },
+      {
+        "name": "Teoría y Política del Comercio Internacional",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Macroeconomía II"
+        ]
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      },
+      {
+        "name": "Economía y Finanzas Públicas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": []
+      },
+      {
+        "name": "Macroeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Evaluación de Impacto",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Pronósticos Prácticos con Series de Tiempo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Probabilidad",
+          "Estadística"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "polpub-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Política Pública",
+    "description": "Desarrollarás la capacidad para comprender, formular y evaluar políticas públicas orientadas al bienestar social. Aprenderás a analizar políticas sociales y sectoriales desde una perspectiva económica y multidisciplinar, fortaleciendo tu criterio técnico y tu compromiso con el impacto social. Esta ruta es ideal si te proyectas a trabajar en el sector público, entidades multilaterales o centros de investigación dedicados al diseño y evaluación de políticas públicas.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Pobreza y Desigualdad",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": []
+      },
+      {
+        "name": "Análisis Cualitativo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      },
+      {
+        "name": "Macroeconomía II",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I"
+        ]
+      },
+      {
+        "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Evaluación de Impacto",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Desarrollo Económico",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Introducción a la Ciencia Económica"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "inver-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Inversiones",
+    "description": "Desarrollarás los conocimientos y herramientas necesarios para analizar, gestionar y tomar decisiones estratégicas de inversión en distintos contextos financieros. Aprenderás sobre gestión de portafolios globales, análisis financiero, inversiones sostenibles y mercados de capital privado. Esta ruta es ideal si te proyectas a trabajar en banca de inversión, gestión de activos, análisis financiero o sostenibilidad financiera.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Taller de Bloomberg",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras",
+          "Planeación Financiera"
+        ]
+      },
+      {
+        "name": "Análisis de Reportes Financieros",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Planeación Financiera"
+        ]
+      },
+      {
+        "name": "Macroeconomía II",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I"
+        ]
+      },
+      {
+        "name": "Global Asset Management",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": []
+      },
+      {
+        "name": "Finanzas Verdes y Sostenibilidad",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": []
+      },
+      {
+        "name": "Inversiones en Capital Privado",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": []
+      },
+      {
+        "name": "Pronósticos Prácticos con Series de Tiempo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Probabilidad",
+          "Estadística"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "fintech-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Fintech",
+    "description": "Desarrollarás habilidades para comprender e implementar soluciones financieras basadas en tecnología. Aprenderás a utilizar herramientas digitales aplicadas a las finanzas, análisis de datos, programación y software especializado en mercados financieros. Esta ruta es ideal si te proyectas a trabajar en sectores financieros innovadores, startups, banca digital, analítica financiera o en el diseño de productos tecnológicos para servicios financieros.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Fintech",
+        "type": "Obligatoria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Taller de Bloomberg",
+        "type": "Obligatoria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras",
+          "Planeación Financiera"
+        ]
+      }
+    ],
+    "pools": [
+      {
+        "instruction": "De esta bolsa de asignaturas el estudiante debe seleccionar 3 cursos para completar 6 créditos",
+        "options": [
+          {
+            "name": "Software Financiero",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": []
+          },
+          {
+            "name": "Curso Basico R",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Probabilidad",
+              "Estadistica"
+            ]
+          },
+          {
+            "name": "Curso Basico STATA",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Econometría Básica"
+            ]
+          }
+        ]
+      },
+      {
+        "instruction": "De esta bolsa de asignaturas el estudiante debe seleccionar 2 cursos para completar 6 créditos",
+        "options": [
+          {
+            "name": "Algoritmos y Estructuras de Datos",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores"
+            ]
+          },
+          {
+            "name": "Ingeniería de Datos",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Algoritmos y Estructuras de Datos"
+            ]
+          },
+          {
+            "name": "Aprendizaje Automático de Máquinas",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Álgebra Lineal",
+              "Economía Matemática"
+            ]
+          },
+          {
+            "name": "Arquitectura del Computador",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores"
+            ]
+          },
+          {
+            "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Anual s2",
+            "prerequisites": [
+              "Econometría Básica"
+            ]
+          },
+          {
+            "name": "Pronósticos Prácticos con Series de Tiempo",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Anual s1",
+            "prerequisites": [
+              "Probabilidad",
+              "Estadistica"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "econo-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Economía",
+    "description": "Fortalecerás tu comprensión integral del pensamiento económico, los procesos históricos y los modelos modernos de análisis económico. Estudiarás teorías económicas, desarrollo económico, historia económica colombiana y el funcionamiento de los mercados. Esta ruta es ideal si deseas profundizar en los fundamentos teóricos y aplicados de la economía y proyectarte hacia roles analíticos en investigación, docencia o en sectores público y privado.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Doctrinas Económicas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Historia Económica Colombiana",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Introducción a la Ciencia Económica"
+        ]
+      },
+      {
+        "name": "Microeconomía II",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Microeconomía I"
+        ]
+      },
+      {
+        "name": "Macroeconomía II",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I"
+        ]
+      },
+      {
+        "name": "Economía Matemática",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Cálculo 2",
+          "Álgebra Lineal"
+        ]
+      },
+      {
+        "name": "Microeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Microeconomía I",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Macroeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "fcienciasd-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Fundamentos en Ciencias de Datos",
+    "description": "Adquirirás las bases conceptuales y técnicas necesarias para analizar datos en contextos interdisciplinarios. Aprenderás programación, manejo de bases de datos y el uso de herramientas tecnológicas para transformar información en conocimiento útil y accionable. Esta ruta es ideal si te interesa aplicar la ciencia de datos en campos como la economía, las finanzas, el marketing, la política pública o la investigación social.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Algoritmos y Estructuras de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Programación de Computadores"
+        ]
+      },
+      {
+        "name": "Ingeniería de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Algoritmos y Estructuras de Datos"
+        ]
+      },
+      {
+        "name": "Aprendizaje Automático de Máquinas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Álgebra Lineal",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Análisis Avanzado de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Introducción al Procesamiento de Lenguaje Natural",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": null,
+        "prerequisites": []
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "exmarket-fin",
+    "programKey": "finanzas",
+    "program": "Finanzas",
+    "name": "Experience Marketing",
+    "description": "Desarrollarás herramientas para analizar, comprender e intervenir estratégicamente en la experiencia del cliente. Aprenderás metodologías mixtas, comportamiento del consumidor y diseño de experiencias centradas en el usuario. Esta ruta es ideal si te proyectas a trabajar en áreas de marketing, innovación, estrategia comercial o desarrollo de productos con foco en la experiencia del cliente.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Marketing",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Market Research",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Comportamiento de Compra del Cliente y Consumidor",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Customer Experience Management (Eng)",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Experience Marketing Campaigns (Eng)",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Neuromarketing",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Diseño Digital",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Publicidad Digital",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Diseño Digital"
+        ]
+      },
+      {
+        "name": "Insights del Consumidor y Analítica de Datos",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "polmacro-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Políticas Macroeconómicas",
+    "description": "Te formarás con una sólida comprensión del entorno macroeconómico y de las herramientas de política económica. Aprenderás a analizar y diseñar políticas fiscales, monetarias y de desarrollo, desarrollando criterios técnicos y pensamiento estratégico. Esta ruta es ideal si te proyectas como asesor o analista en entidades públicas, organismos internacionales o centros de pensamiento económico",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Teoría y Política Monetaria y Cambiaria",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática",
+          "Optimización para finanzas"
+        ]
+      },
+      {
+        "name": "Teoría y Política del Comercio Internacional",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Macroeconomía II"
+        ]
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      },
+      {
+        "name": "Economía y Finanzas Públicas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": []
+      },
+      {
+        "name": "Macroeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Evaluación de Impacto",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Pronósticos Prácticos con Series de Tiempo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Probabilidad",
+          "Estadística"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "polpub-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Política Pública",
+    "description": "Desarrollarás la capacidad para comprender, formular y evaluar políticas públicas orientadas al bienestar social. Aprenderás a analizar políticas sociales y sectoriales desde una perspectiva económica y multidisciplinar, fortaleciendo tu criterio técnico y tu compromiso con el impacto social. Esta ruta es ideal si te proyectas a trabajar en el sector público, entidades multilaterales o centros de investigación dedicados al diseño y evaluación de políticas públicas.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Pobreza y Desigualdad",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": []
+      },
+      {
+        "name": "Análisis Cualitativo",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      },
+      {
+        "name": "Microeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Microeconomía I",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Evaluación de Impacto",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Desarrollo Económico",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Introducción a la Ciencia Económica"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "finanzas-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Finanzas",
+    "description": "Desarrollarás competencias técnicas para comprender y gestionar decisiones financieras en distintos contextos económicos. Aprenderás sobre instrumentos financieros, análisis de mercados, planeación y finanzas corporativas, así como sobre el entorno monetario y cambiario. Esta ruta es ideal si te proyectas a trabajar en el sector financiero, empresas, banca, consultoría o entidades reguladoras.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Contabilidad para la Toma de Decisiones",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Matemáticas Financieras",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Contabilidad para la Toma de Decisiones"
+        ]
+      },
+      {
+        "name": "Renta Fija",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras"
+        ]
+      },
+      {
+        "name": "Renta Variable",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras"
+        ]
+      },
+      {
+        "name": "Planeación Financiera",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras"
+        ]
+      },
+      {
+        "name": "Finanzas Corporativas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Planeación Financiera"
+        ]
+      },
+      {
+        "name": "Teoría y Política Monetaria y Cambiaria",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática",
+          "Optimización para finanzas"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "fintech-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Fintech",
+    "description": "Desarrollarás habilidades para comprender e implementar soluciones financieras basadas en tecnología. Aprenderás a utilizar herramientas digitales aplicadas a las finanzas, análisis de datos, programación y software especializado en mercados financieros. Esta ruta es ideal si te proyectas a trabajar en sectores financieros innovadores, startups, banca digital, analítica financiera o en el diseño de productos tecnológicos para servicios financieros.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Fintech",
+        "type": "Obligatoria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Taller de Bloomberg",
+        "type": "Obligatoria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Matemáticas Financieras",
+          "Planeación Financiera"
+        ]
+      }
+    ],
+    "pools": [
+      {
+        "instruction": "De esta bolsa de asignaturas el estudiante debe seleccionar 3 cursos para completar 6 créditos",
+        "options": [
+          {
+            "name": "Software Financiero",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": []
+          },
+          {
+            "name": "Curso Basico R",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Probabilidad",
+              "Estadistica"
+            ]
+          },
+          {
+            "name": "Curso Basico STATA",
+            "type": "Complementaria",
+            "credits": 2,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Econometría Básica"
+            ]
+          }
+        ]
+      },
+      {
+        "instruction": "De esta bolsa de asignaturas el estudiante debe seleccionar 2 cursos para completar 6 créditos",
+        "options": [
+          {
+            "name": "Contabilidad para la Toma de Decisiones",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": []
+          },
+          {
+            "name": "Matemáticas Financieras",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Contabilidad para la Toma de Decisiones"
+            ]
+          },
+          {
+            "name": "Renta Fija",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Matemáticas Financieras"
+            ]
+          },
+          {
+            "name": "Renta Variable",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Matemáticas Financieras"
+            ]
+          },
+          {
+            "name": "Arquitectura del Computador",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores"
+            ]
+          },
+          {
+            "name": "Optimización para Finanzas",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Programación de Computadores",
+              "Cálculo 2",
+              "Álgebra Lineal"
+            ]
+          },
+          {
+            "name": "Economia Financiera",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Semestral",
+            "prerequisites": [
+              "Microeconomía I",
+              "Probabilidad"
+            ]
+          },
+          {
+            "name": "Machine Learning y Datos Satelitales para Economía Ambiental",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Anual s2",
+            "prerequisites": [
+              "Econometría Básica"
+            ]
+          },
+          {
+            "name": "Pronósticos Prácticos con Series de Tiempo",
+            "type": "Complementaria",
+            "credits": 3,
+            "offering": "Anual s1",
+            "prerequisites": [
+              "Probabilidad",
+              "Estadistica"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "econo-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Economía",
+    "description": "Fortalecerás tu comprensión integral del pensamiento económico, los procesos históricos y los modelos modernos de análisis económico. Estudiarás teorías económicas, desarrollo económico, historia económica colombiana y el funcionamiento de los mercados. Esta ruta es ideal si deseas profundizar en los fundamentos teóricos y aplicados de la economía y proyectarte hacia roles analíticos en investigación, docencia o en sectores público y privado.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Doctrinas Económicas",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Historia Económica Colombiana",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Introducción a la Ciencia Económica"
+        ]
+      },
+      {
+        "name": "Desarrollo Económico",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s1",
+        "prerequisites": [
+          "Introducción a la Ciencia Económica"
+        ]
+      },
+      {
+        "name": "Microeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Microeconomía I",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Macroeconomía III",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Macroeconomía I",
+          "Economía Matemática"
+        ]
+      },
+      {
+        "name": "Organización Industrial",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Anual s2",
+        "prerequisites": [
+          "Cálculo I",
+          "Microeconomía II"
+        ]
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "fcienciasd-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Fundamentos en Ciencias de Datos",
+    "description": "Adquirirás las bases conceptuales y técnicas necesarias para analizar datos en contextos interdisciplinarios. Aprenderás programación, manejo de bases de datos y el uso de herramientas tecnológicas para transformar información en conocimiento útil y accionable. Esta ruta es ideal si te interesa aplicar la ciencia de datos en campos como la economía, las finanzas, el marketing, la política pública o la investigación social.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Teoría de Grafos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Álgebra Lineal"
+        ]
+      },
+      {
+        "name": "Redes de Computadores",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Teoría de Grafos"
+        ]
+      },
+      {
+        "name": "Computación en la Nube",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Redes de Computadores"
+        ]
+      },
+      {
+        "name": "Big Data",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": null,
+        "prerequisites": []
+      },
+      {
+        "name": "Análisis Avanzado de Datos",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Econometría Básica"
+        ]
+      },
+      {
+        "name": "Introducción al Procesamiento de Lenguaje Natural",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": null,
+        "prerequisites": []
+      }
+    ],
+    "pools": []
+  },
+  {
+    "id": "exmarket-adm",
+    "programKey": "analitica",
+    "program": "Analítica de Datos y Mercados",
+    "name": "Experience Marketing",
+    "description": "Desarrollarás herramientas para analizar, comprender e intervenir estratégicamente en la experiencia del cliente. Aprenderás metodologías mixtas, comportamiento del consumidor y diseño de experiencias centradas en el usuario. Esta ruta es ideal si te proyectas a trabajar en áreas de marketing, innovación, estrategia comercial o desarrollo de productos con foco en la experiencia del cliente.",
+    "totalCredits": 18,
+    "requirements": "Ninguno",
+    "courses": [
+      {
+        "name": "Marketing",
+        "type": "Complementaria",
+        "credits": 3,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Market Research",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Comportamiento de Compra del Cliente y Consumidor",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Customer Experience Management (Eng)",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Experience Marketing Campaigns (Eng)",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Neuromarketing",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Diseño Digital",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      },
+      {
+        "name": "Publicidad Digital",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": [
+          "Diseño Digital"
+        ]
+      },
+      {
+        "name": "Insights del Consumidor y Analítica de Datos",
+        "type": "Complementaria",
+        "credits": 2,
+        "offering": "Semestral",
+        "prerequisites": []
+      }
+    ],
+    "pools": []
+  }
+]
